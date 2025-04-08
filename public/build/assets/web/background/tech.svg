@@ -1,0 +1,104 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="570" height="410" viewBox="0 0 570 410">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_235071" data-name="Rectangle 235071" width="570" height="410" transform="translate(1969 -364)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Rectangle_185363" data-name="Rectangle 185363" width="690" height="447" transform="translate(262 3027)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <rect id="Rectangle_185362" data-name="Rectangle 185362" width="758.93" height="718.522" transform="translate(-96 -77)" fill="none"/>
+    </clipPath>
+    <filter id="Path_350078" x="392" y="137" width="217.869" height="217.869" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="18" result="blur"/>
+      <feFlood flood-color="#b01bdf" flood-opacity="0.188"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_350080" x="136" y="53" width="217.868" height="217.867" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="18" result="blur-2"/>
+      <feFlood flood-color="#b01bdf" flood-opacity="0.188"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_350081" x="-30" y="58" width="215.343" height="211.309" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="18" result="blur-3"/>
+      <feFlood flood-color="#b01bdf" flood-opacity="0.188"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_350080-2" x="300" y="44" width="217.868" height="217.867" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="18" result="blur-4"/>
+      <feFlood flood-color="#b01bdf" flood-opacity="0.188"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Mask_Group_283165" data-name="Mask Group 283165" transform="translate(-1969 364)" clip-path="url(#clip-path)">
+    <g id="Group_158138" data-name="Group 158138" transform="translate(1698 -3011)">
+      <g id="Mask_Group_135342" data-name="Mask Group 135342" transform="translate(-12 -380)" clip-path="url(#clip-path-2)">
+        <g id="Group_158130" data-name="Group 158130" transform="translate(302.07 3027)">
+          <path id="Path_350058" data-name="Path 350058" d="M59.131,164.456,143.7,247.749,59.131,164.456V17.209h0L228.864,162.13,330.748,9.264,485.3,72.892l6.223,190.294L473.276,289.48" transform="translate(-3.24 -0.508)" fill="none" stroke="#ddc7a8" stroke-width="1"/>
+          <g id="Group_158129" data-name="Group 158129">
+            <g id="Group_158128" data-name="Group 158128" clip-path="url(#clip-path-3)">
+              <path id="Path_350059" data-name="Path 350059" d="M354.745,8.757A8.757,8.757,0,1,1,345.988,0a8.757,8.757,0,0,1,8.757,8.757" transform="translate(-18.478)" fill="#ddc7a8"/>
+              <path id="Path_350060" data-name="Path 350060" d="M67.381,18.021a8.757,8.757,0,1,1-8.757-8.757,8.757,8.757,0,0,1,8.757,8.757" transform="translate(-2.732 -0.508)" fill="#ddc7a8"/>
+              <path id="Path_350065" data-name="Path 350065" d="M532.8,130.257l31.444-31.512V54.182L532.8,22.67H488.333L456.89,54.182V98.745l31.443,31.512Z" transform="translate(-25.035 -1.242)" fill="#9fbbec"/>
+              <path id="Path_350067" data-name="Path 350067" d="M532.8,311.307l31.444-31.589V235.045L532.8,203.456H488.334l-31.445,31.589v44.674l31.445,31.589Z" transform="translate(-25.035 -11.148)" fill="#e5b9f2"/>
+              <path id="Path_350069" data-name="Path 350069" d="M80.9,221.19l31.44-31.005V146.339L80.9,115.334H36.442L5,146.339v43.848l31.442,31Z" transform="translate(-0.274 -6.321)" fill="#f7bff1"/>
+              <path id="Path_350072" data-name="Path 350072" d="M352.513,314.045l31.618-31.551V237.871L352.513,206.32H307.8l-31.615,31.551V282.49L307.8,314.042Z" transform="translate(-15.133 -11.305)" fill="#9fbbec"/>
+              <path id="Path_350073" data-name="Path 350073" d="M173.348,313.883,205.6,281.509V235.727l-32.256-32.374H127.735L95.48,235.727v45.782l32.255,32.374Z" transform="translate(-5.232 -11.143)" fill="#9fbbec"/>
+              <path id="Path_350076" data-name="Path 350076" d="M529.578,127.538l32.181-32.18V49.85L529.578,17.67H484.07L451.89,49.85V95.358l32.18,32.18Z" transform="translate(-24.46 -1.17)" fill="#d6e3fc" stroke="#9dbcf3" stroke-width="1"/>
+              <g transform="matrix(1, 0, 0, 1, -19.07, 0)" filter="url(#Path_350078)">
+                <g id="Path_350078-2" data-name="Path 350078" transform="translate(-5.89 -10.46)" fill="#f3d3fd">
+                  <path d="M529.578,308.324l32.18-32.18V230.636l-32.18-32.18H484.07l-32.181,32.18v45.509l32.181,32.18Z" stroke="none"/>
+                  <path d="M 484.4842224121094 307.3249816894531 L 529.163818359375 307.3240051269531 L 560.7579956054688 275.7298278808594 L 560.7579956054688 231.0502014160156 L 529.163818359375 199.4560089111328 L 484.4842224121094 199.4560089111328 L 452.8890075683594 231.0502166748047 L 452.8890075683594 275.7307739257812 L 484.4842224121094 307.3249816894531 M 484.0700073242188 308.3249816894531 L 451.8890075683594 276.1449890136719 L 451.8890075683594 230.635986328125 L 484.0700073242188 198.4560089111328 L 529.5780029296875 198.4560089111328 L 561.7579956054688 230.6360015869141 L 561.7579956054688 276.1440124511719 L 529.5780029296875 308.3240051269531 L 484.0700073242188 308.3249816894531 Z" stroke="none" fill="rgba(133,22,168,0.13)"/>
+                </g>
+              </g>
+              <g id="Group_282066" data-name="Group 282066">
+                <path id="Path_350068" data-name="Path 350068" d="M261.69,222.169l31.58-31.292V146.625l-31.58-31.292H217.031L185.45,146.625v44.254l31.581,31.292Z" transform="translate(-10.162 -6.32)" fill="#f7bff1"/>
+                <g transform="matrix(1, 0, 0, 1, -19.07, 0)" filter="url(#Path_350080)">
+                  <g id="Path_350080-3" data-name="Path 350080" transform="translate(9.55 -6.33)" fill="#f3d3fd">
+                    <path d="M258.139,220.2l32.179-32.179V142.513l-32.179-32.18H212.631l-32.181,32.18v45.509L212.631,220.2Z" stroke="none"/>
+                    <path d="M 257.7247924804688 219.1999969482422 L 289.3179931640625 187.6067962646484 L 289.3179931640625 142.9272003173828 L 257.7247619628906 111.3330078125 L 213.0452117919922 111.3330078125 L 181.4499969482422 142.9272155761719 L 181.4499969482422 187.6077728271484 L 213.0451965332031 219.1999969482422 L 257.7247924804688 219.1999969482422 M 258.1390075683594 220.1999969482422 L 212.6309967041016 220.1999969482422 L 180.4499969482422 188.0220031738281 L 180.4499969482422 142.5130004882812 L 212.6309967041016 110.3330078125 L 258.1389770507812 110.3330078125 L 290.3179931640625 142.5130004882812 L 290.3179931640625 188.02099609375 L 258.1390075683594 220.1999969482422 Z" stroke="none" fill="rgba(133,22,168,0.13)"/>
+                  </g>
+                </g>
+                <text id="ABOUT_US_Copy" data-name="ABOUT US Copy" transform="translate(193.93 164)" fill="#010166" font-size="16" font-family="Nunito-Bold, Nunito" font-weight="700"><tspan x="0" y="0">React.js </tspan></text>
+              </g>
+              <g transform="matrix(1, 0, 0, 1, -19.07, 0)" filter="url(#Path_350081)">
+                <g id="Path_350081-2" data-name="Path 350081" transform="translate(24 -1.33)" fill="#f3d3fd">
+                  <path d="M75.9,213.643l31.44-30.259v-42.79L75.9,110.334H31.442L0,140.594v42.793l31.442,30.257H75.9Z" stroke="none"/>
+                  <path d="M 75.49991607666016 212.6431884765625 L 106.3427734375 182.9582366943359 L 106.3427734375 141.0189819335938 L 75.49991607666016 111.3340148925781 L 31.84478187561035 111.3340148925781 L 1.000000953674316 141.0189971923828 L 1.000000953674316 182.9610137939453 L 31.84475517272949 212.6431884765625 L 75.49991607666016 212.6431884765625 M 75.90296936035156 213.6431884765625 L 31.44174385070801 213.6431884765625 L 1.004464252218895e-06 183.3865356445312 L 1.004464252218895e-06 140.5935211181641 L 31.44174385070801 110.3340148925781 L 75.90296936035156 110.3340148925781 L 107.3427734375 140.5935211181641 L 107.3427734375 183.3836975097656 L 75.90296936035156 213.6431884765625 Z" stroke="none" fill="rgba(133,22,168,0.13)"/>
+                </g>
+              </g>
+              <path id="Path_350085" data-name="Path 350085" d="M348.873,311.191l32.181-32.18V233.5l-32.181-32.18H303.364L271.186,233.5v45.508l32.179,32.18Z" transform="translate(-14.756 -10.82)" fill="#d6e3fc" stroke="#9dbcf3" stroke-width="1"/>
+              <path id="Path_350086" data-name="Path 350086" d="M168.168,308.222l32.181-32.18V230.533l-32.181-32.18H122.66l-32.18,32.18v45.508l32.18,32.18Z" transform="translate(-2.05 -7.853)" fill="#d6e3fc" stroke="#9dbcf3" stroke-width="1"/>
+              <path id="Path_350090" data-name="Path 350090" d="M175.419,18.021a8.757,8.757,0,1,1-8.757-8.757,8.757,8.757,0,0,1,8.757,8.757" transform="translate(149.326 377.576)" fill="#ddc7a8"/>
+              <text id="ABOUT_US_Copy-2" data-name="ABOUT US Copy" transform="translate(30.93 166)" fill="#010166" font-size="16" font-family="Nunito-Bold, Nunito" font-weight="700"><tspan x="0" y="0">Laravel</tspan></text>
+              <text id="ABOUT_US_Copy-3" data-name="ABOUT US Copy" transform="translate(113.93 250)" fill="#010166" font-size="16" font-family="Nunito-Bold, Nunito" font-weight="700"><tspan x="0" y="0">Node.js </tspan></text>
+              <text id="ABOUT_US_Copy-4" data-name="ABOUT US Copy" transform="translate(284.93 250)" fill="#010166" font-size="16" font-family="Nunito-Bold, Nunito" font-weight="700"><tspan x="0" y="0">Python</tspan></text>
+              <text id="ABOUT_US_Copy-5" data-name="ABOUT US Copy" transform="translate(456.93 77)" fill="#010166" font-size="16" font-family="Nunito-Bold, Nunito" font-weight="700"><tspan x="0" y="0">Flutter</tspan></text>
+              <text id="ABOUT_US_Copy-6" data-name="ABOUT US Copy" transform="translate(459.93 248)" fill="#010166" font-size="16" font-family="Nunito-Bold, Nunito" font-weight="700"><tspan x="0" y="0">Kotlin</tspan></text>
+            </g>
+          </g>
+        </g>
+        <path id="Path_350089" data-name="Path 350089" d="M1949.42-3825.37l132.524,113.164v-94.428" transform="translate(-1465.474 7137.472)" fill="none" stroke="#ddc7a8" stroke-width="1"/>
+        <line id="Line_89455" data-name="Line 89455" x2="56.712" transform="translate(416.44 3189.575)" fill="none" stroke="#ddc7a8" stroke-width="1"/>
+      </g>
+      <g id="Group_282067" data-name="Group 282067" transform="translate(454.07 2637.349)">
+        <path id="Path_350068-2" data-name="Path 350068" d="M261.69,223.2l31.58-31.594V146.927l-31.58-31.594H217.031L185.45,146.927v44.68L217.031,223.2Z" transform="translate(-10.162 -6.32)" fill="#f7bff1"/>
+        <g transform="matrix(1, 0, 0, 1, -183.07, 9.65)" filter="url(#Path_350080-2)">
+          <g id="Path_350080-4" data-name="Path 350080" transform="translate(173.55 -15.33)" fill="#f3d3fd">
+            <path d="M258.139,220.2l32.179-32.179V142.513l-32.179-32.18H212.631l-32.181,32.18v45.509L212.631,220.2Z" stroke="none"/>
+            <path d="M 257.7247924804688 219.1999969482422 L 289.3179931640625 187.6067962646484 L 289.3179931640625 142.9272003173828 L 257.7247619628906 111.3330078125 L 213.0452117919922 111.3330078125 L 181.4499969482422 142.9272155761719 L 181.4499969482422 187.6077728271484 L 213.0451965332031 219.1999969482422 L 257.7247924804688 219.1999969482422 M 258.1390075683594 220.1999969482422 L 212.6309967041016 220.1999969482422 L 180.4499969482422 188.0220031738281 L 180.4499969482422 142.5130004882812 L 212.6309967041016 110.3330078125 L 258.1389770507812 110.3330078125 L 290.3179931640625 142.5130004882812 L 290.3179931640625 188.02099609375 L 258.1390075683594 220.1999969482422 Z" stroke="none" fill="rgba(133,22,168,0.13)"/>
+          </g>
+        </g>
+        <text id="ABOUT_US_Copy-7" data-name="ABOUT US Copy" transform="translate(205.93 164.651)" fill="#010166" font-size="16" font-family="Nunito-Bold, Nunito" font-weight="700"><tspan x="0" y="0">AWS</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
